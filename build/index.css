@@ -362,7 +362,7 @@ p {
   background-color: #212121;
   padding: 25px;
   border-radius: 3px;
-  text-align: inherit;
+  text-align: left;
   margin-bottom: 25px;
 }
 
